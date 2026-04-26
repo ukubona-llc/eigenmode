@@ -164,14 +164,10 @@ In Tensor → Compressor → Vector → Eigenstructure → Scalar:
 
 The scalar is legible. The eigenstructure is explanatory. The tensor is where the real gradient sovereignty work happens — if you want to change the scalar, you have to work at the tensor level, not the scalar level. Which is why all the purely counter-Trump strategies (shame, indictment, ridicule) failed: they were operating at the scalar while the tensor was unchanged.
 
-<img
-   src="ukhona/eigenmode.svg"
-   width="70%"
-   height="500px"
->
-</img>
-
-
+<img src="ukhona/eigenmode.svg"
+     width="70%"
+   height="500px"> 
+   
 ---
 
 **The hardest implication**
